@@ -1,6 +1,7 @@
 def solution(n, words):
     answer = [0,0]
     q = [0] * len(words)
+    fWord = words[0][-1]
     for i, w in enumerate(words):
         if i>0 and (fWord!=w[0] or w in q):
             answer[0] = n if (i+1)%n==0 else (i+1)%n
@@ -10,7 +11,6 @@ def solution(n, words):
             fWord = w[-1]
             q[i] = w
     return answer
-
 
 
 if __name__ =="__main__":
