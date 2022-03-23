@@ -16,7 +16,7 @@ def find_end(numbers, mid):
 
 def binary_search(numbers, start, end, mid):
     if start==mid or end ==mid:
-        return None
+        return -1
     # 중간 값이 x보다 크면 end 를 mid로 바꾼 후 이진 탐색
     if numbers[mid] > x:
         end = mid
@@ -35,7 +35,7 @@ def binary_search(numbers, start, end, mid):
 if __name__=="__main__":
     #### input ####
     N, x = 7, 2
-    numbers = [1, 1, 1, 2, 2, 2, 3]
+    numbers = [1, 1, 1, 1, 1, 1, 3]
     ###############
 
     start = 0
