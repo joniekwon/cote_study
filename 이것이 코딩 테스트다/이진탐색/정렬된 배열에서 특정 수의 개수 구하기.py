@@ -35,7 +35,7 @@ def binary_search(numbers, start, end, mid):
 if __name__=="__main__":
     #### input ####
     N, x = 7, 2
-    numbers = [1, 1, 1, 1, 1, 1, 3]
+    numbers = [1, 1, 1, 2, 2, 2, 3]
     ###############
 
     start = 0
