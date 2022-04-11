@@ -20,3 +20,7 @@
 
 ## 프로그래머스 [Programmers](https://programmers.co.kr/learn/challenges)
 
+** 무료강의 **
+- [정규표현식](https://programmers.co.kr/learn/courses/11)
+- [COS Pro 2급 Python 모의고사](https://programmers.co.kr/learn/courses/33)
+- [[파이썬을 파이썬답게](https://programmers.co.kr/learn/courses/4008)]
