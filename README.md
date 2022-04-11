@@ -2,6 +2,8 @@
 
 ## 백준 [Baekjoon(BOJ)](https://www.acmicpc.net/problem/tags)
 
+- 1339번 : 단어수학 [그리디, 브루트 포스] [[문제](https://www.acmicpc.net/problem/1339)] [[풀이](https://velog.io/@joniekwon/Python-%EB%B0%B1%EC%A4%80-1339%EB%B2%88-%EB%8B%A8%EC%96%B4-%EC%88%98%ED%95%99)]
+
 - 16953번: A → B [그래프 이론, 그리디, 그래프 탐색, DFS/BFS] [[문제](https://www.acmicpc.net/problem/16953)] [[풀이](https://velog.io/@joniekwon/Python-%EB%B0%B1%EC%A4%80-16953%EB%B2%88-A-B)]
 
 - 1946번: 신입사원 [그리디, 정렬] [[문제](https://www.acmicpc.net/problem/1946)] [[풀이](https://velog.io/@joniekwon/Python-%EB%B0%B1%EC%A4%80-1946%EB%B2%88-%EC%8B%A0%EC%9E%85-%EC%82%AC%EC%9B%90)]
