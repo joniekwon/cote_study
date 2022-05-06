@@ -1,0 +1,12 @@
+def solution(s):
+    stack = []
+    for alpha in s:
+        if not stack:
+            stack.append(alpha)
+            continue
+        if stack[-1] == alpha:
+            stack.pop()
+        else:
+            stack.append(alpha)
+    print(stack)
+    return 0 if stack else 1
